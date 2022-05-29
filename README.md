@@ -1,2 +1,2 @@
 # MSc2_codes
-Codes for Mac Thesis
+Folders containt relevant codes for the dissertation.
